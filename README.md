@@ -21,7 +21,7 @@ This will open an ephemeral Cloud Shell window with your credentials and this re
 
 **Make sure to trust the repository so that the code can execute properly.**
 
-<img src="https://github.com/jorisf/CarbonFootprintDashboardCreator/blob/main/images/trust_repo.png" alt="Trust the repo" style="width:400px;"/>
+<img src="https://github.com/benjaminsadik/CarbonFootprintDashboardCreator/blob/main/images/trust_repo.png" alt="Trust the repo" style="width:400px;"/>
 
 
 ### 2. Install required Python packages
