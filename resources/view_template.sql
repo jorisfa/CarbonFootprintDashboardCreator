@@ -111,7 +111,7 @@ billing_usage AS (
     FROM
       `$BILLING_PROJECT_ID.$BILLING_DATASET.$BILLING_TABLE`
     WHERE
-      currency = "USD" 
+      currency = "$CURRENCY" 
     GROUP BY
       billing_account_id,
       service.id,
