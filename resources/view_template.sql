@@ -55,7 +55,7 @@ billing AS (
     FROM
       `$BILLING_PROJECT_ID.$BILLING_DATASET.$BILLING_TABLE` AS billing
     WHERE
-      currency = "USD"
+      currency = "$CURRENCY"
     )
   GROUP BY
     billing_account_id,
